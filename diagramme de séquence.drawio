@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="mC9w0yUk_higr3A0URtn">
+    <mxGraphModel dx="1704" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-1" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="70" y="440" as="sourcePoint" />
+            <mxPoint x="70" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="360" width="30" x="399" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="650" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="site web" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="serveur" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-8" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="80" y="120" as="sourcePoint" />
+            <mxPoint x="180" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="envoi d&#39;une commande" vertex="1">
+          <mxGeometry height="30" width="125" x="65" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-11" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="120" as="sourcePoint" />
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="verification des donnée et de la commande" vertex="1">
+          <mxGeometry height="30" width="160" x="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-13" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="440" y="120" as="sourcePoint" />
+            <mxPoint x="640" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="envoi de la commande" vertex="1">
+          <mxGeometry height="30" width="180" x="450" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-16" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="commande invalide ou non disponible" vertex="1">
+          <mxGeometry height="30" width="125" x="247.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-18" edge="1" parent="1" source="QhD7iI3k5qGveGrbFLy5-3" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=-0.098;exitY=0.307;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="190" y="200" as="sourcePoint" />
+            <mxPoint x="80" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="message d&#39;erreur" vertex="1">
+          <mxGeometry height="30" width="100" x="92" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-20" edge="1" parent="1" source="QhD7iI3k5qGveGrbFLy5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="QhD7iI3k5qGveGrbFLy5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-21" edge="1" parent="1" source="QhD7iI3k5qGveGrbFLy5-5" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.667;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="570" y="320" as="sourcePoint" />
+            <mxPoint x="90" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="commande confirmé" vertex="1">
+          <mxGeometry height="30" width="160" x="470" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="message de confirmation" vertex="1">
+          <mxGeometry height="30" width="125" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QhD7iI3k5qGveGrbFLy5-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="périphérique du restaurent" vertex="1">
+          <mxGeometry height="30" width="90" x="615" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
