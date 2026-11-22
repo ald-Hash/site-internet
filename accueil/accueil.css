@@ -9,7 +9,7 @@ body {
     justify-content: center;
     text-align: center;
 }
-    .conteneur-boutons {
+.conteneur-boutons {
     display: flex;
     justify-content: flex-start;
     align-items: center;
