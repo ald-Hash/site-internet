@@ -1,0 +1,43 @@
+
+h2 {
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+}
+
+.produits {
+    display: flex;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding: 15px;
+}
+
+.produit {
+    background-color: white;
+    width: 200px;
+    min-width: 200px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #d9b8f0;
+    border-radius: 10px;
+}
+
+.produit img {
+    width: 100%;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.produit h3 {
+    color: purple;
+    font-size: 16px;
+    margin: 8px;
+}
+
+.produit p {
+    color: #555;
+    font-size: 13px;
+}
